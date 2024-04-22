@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DangThanh1903
-- 👀 I’m interested in JavaScript with a keen interest in web technologies and a touch of AI exploration. Enthusiastic about crafting innovative solutions that seamlessly blend code and intelligence.
+- 👀 I’m interested in JavaScript and Unity with a keen interest in web technologies and a touch of AI exploration. Enthusiastic about crafting innovative solutions that seamlessly blend code and intelligence.
 - 🌱 I'm currently immersing myself in the world of JavaScript, delving deep into its intricacies while simultaneously exploring the realms of front-end development and the fascinating field of artificial intelligence.
 - 📫 How to reach me: You can reach me via email at ewthanh123@gmail.com. I'm always open to discussions, collaboration opportunities, and sharing ideas related to JavaScript, front-end development, and AI.
 - ⚡ Fun fact: Can solve complex equations in seconds, but sometimes get lost in a sentence longer than a theorem!
